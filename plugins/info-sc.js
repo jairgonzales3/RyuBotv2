@@ -1,24 +1,24 @@
 let handler = async (m, { conn, usedPrefix }) => {
 var doc = ['pdf','zip','vnd.openxmlformats-officedocument.presentationml.presentation','vnd.openxmlformats-officedocument.spreadsheetml.sheet','vnd.openxmlformats-officedocument.wordprocessingml.document']
 var document = doc[Math.floor(Math.random() * doc.length)]    
-let texto1 = `https://github.com/Yovanihades1212/HADES-BOT-MDV2.git`
+let texto1 = `https://github.com/jairgonzales3/RyuBotv2`
 let buttonMessage= {
-'document': { url: `https://youtu.be/4eA5nDxPjOA` },
+'document': { url: `https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley` },
 'mimetype': `application/${document}`,
-'fileName': `⫷᭄ʜᴀᴅᴇs-ʙᴏᴛ-ᴍᴅ﹏✍`,
+'fileName': `@ffxryu.18`,
 'fileLength': 99999999999999,
 'pageCount': 200,
 'contextInfo': {
 'forwardingScore': 200,
 'isForwarded': true,
 'externalAdReply': {
-'mediaUrl': 'https://github.com/Yovanihades1212/HADES-BOT-MDV2.git',
+'mediaUrl': 'https://github.com/jairgonzales3/RyuBotv2',
 'mediaType': 2,
 'previewType': 'pdf',
 'title': 'ᴇʟ ᴍᴇᴊᴏʀ ʙᴏᴛ ᴅᴇ ᴡʜᴀᴛsᴀᴘᴘ⁩',
 'body': wm,
 'thumbnail': imagen1,
-'sourceUrl': 'https://youtu.be/4eA5nDxPjOA' }},
+'sourceUrl': 'https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley' }},
 'caption': texto1,
 'footer': wm,
 'buttons':[
