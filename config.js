@@ -4,14 +4,13 @@ import chalk from 'chalk'
 import { fileURLToPath } from 'url'
 
 global.owner = [
-  ['5212411347465', '𝙾𝙵𝙲 𝚈𝙾𝚅𝙰𝙽𝙸', true],
-  ['5212412377467', '𝙾𝙵𝙲 𝚈𝙾𝚅𝙰𝙽𝙸', true],
-  ['5212411719888', '𝙾𝙵𝙲 𝚈𝙾𝚅𝙰𝙽𝙸', true],
+  ['51955095498', '@ffxryu.18', true],
+  ['51933348947', '@ffxryu.18(secundario)', true],
 ]
 
-global.mods = ['5212411719888'],
-global.prems = ['5212411347465'], 
-global.prems = ['5212412377467'],
+global.mods = ['51955095498'],
+global.prems = ['51955095498'], 
+global.prems = ['51955095498'],
 global.APIs = { 
 
   amel: 'https://melcanz.com',
@@ -62,13 +61,13 @@ global.APIKeys = {
   'https://anabotofc.herokuapp.com/': 'AnaBot'
 }
 
-global.packname = '⫷᭄ʜᴀᴅᴇs-ʙᴏᴛ-ᴍᴅ﹏✍'
-global.author = '©ᴏғᴄ-ʏᴏᴠᴀɴɪ﹏✍'
+global.packname = '@ffxryu.18'
+global.author = '@ffxryu.18'
 
 global.vs = '1.0.30'
 global.version = vs
 
-global.gt = '⫷᭄ʜᴀᴅᴇs-ʙᴏᴛ-ᴍᴅ﹏✍'
+global.gt = '@ffxryu.18'
 global.hadesbot = gt
 
 global.yt = 'https://youtu.be/aPu9wQi-z8U'
@@ -110,8 +109,8 @@ global.envio = eeg
 global.eg = '*🍀ʀᴇsᴜʟᴛᴀᴅᴏ ᴇɴᴄᴏɴᴛʀᴀᴅᴏ✨*'
 global.exito = eg
 
-global.wm = '©ᴏғᴄ-ʏᴏᴠᴀɴɪ﹏✍\n⫷᭄ʜᴀᴅᴇs-ʙᴏᴛ-ᴍᴅ﹏✍'
-global.igfg = '⫷᭄ʜᴀᴅᴇs-ʙᴏᴛ-ᴍᴅ﹏✍'
+global.wm = '@ffxryu.18\n@ffxryu.18'
+global.igfg = '@ffxryu.18'
 global.wait = '⌛ _Cargando..._\n▰▰▰▱▱▱▱▱▱'
 
 global.imagen1 = fs.readFileSync('./src/Menu2.jpg')
