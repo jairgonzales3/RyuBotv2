@@ -8,7 +8,7 @@ let text = `
 │Wa.me/51933348947 (CREADOR) 
 ╰─────°.♡.°‧─────`.trim()   
 let buttonMessage= {
-'document': { url: `https://github.com/Yovanihades1212/HADES-BOT-MDV2` },
+'document': { url: `https://github.com/jairgonzales3/RyuBotv2` },
 'mimetype': `application/${document}`,
 'fileName': `@ffxryu.18`,
 'fileLength': 99999999999999,
@@ -17,13 +17,13 @@ let buttonMessage= {
 'forwardingScore': 200,
 'isForwarded': true,
 'externalAdReply': {
-'mediaUrl': 'https://github.com/Yovanihades1212/HADES-BOT-MDV2',
+'mediaUrl': 'https://github.com/jairgonzales3/RyuBotv2',
 'mediaType': 2,
 'previewType': 'pdf',
 'title': 'ᴇʟ ᴍᴇᴊᴏʀ ʙᴏᴛ ᴅᴇ ᴡʜᴀᴛsᴀᴘᴘ⁩',
 'body': wm,
 'thumbnail': imagen1,
-'sourceUrl': 'https://youtu.be/4eA5nDxPjOA' }},
+'sourceUrl': 'https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley' }},
 'caption': text,
 'footer': wm,
 'buttons':[
