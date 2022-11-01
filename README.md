@@ -1,4 +1,4 @@
-#🔥 𝗛𝗔𝗗𝗘𝗦-𝗕𝗢𝗧-𝗠𝗗🔥
+#🔥@ffxryu.18🔥
 Bot terminado no recibirá más actualizaciones ✨ 
 
 <a href="http://wa.me/51955095498" target="blank"><img src="https://img.shields.io/badge/creador-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
