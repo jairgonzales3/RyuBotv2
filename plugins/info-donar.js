@@ -3,36 +3,31 @@ let handler = async (m, { conn, usedPrefix }) => {
 var doc = ['pdf','zip','vnd.openxmlformats-officedocument.presentationml.presentation','vnd.openxmlformats-officedocument.spreadsheetml.sheet','vnd.openxmlformats-officedocument.wordprocessingml.document']
 var document = doc[Math.floor(Math.random() * doc.length)]    
 let texto1 = `
-┌「⫷᭄ʜᴀᴅᴇs-ʙᴏᴛ-ᴍᴅ﹏✍」
-│◦➛📔ᩭ✎si deseas 🤝apoyarme mejor ayúdame y apóyame en mis cuentas oficiales de 🌆YouTube y en 👥facebook y podrías regalarme una estrella en mi cuenta de git📈
+┌「@ffxryu.18」
+│◦➛📔ᩭ✎si deseas 🤝apoyarme mejor ayúdame y apóyame en mi cuenta de instagram 
 │◦➛🍀ᩭ✎𝙽𝚄𝙼𝙴𝚁𝙾 𝙳𝙴 𝙼𝙸 𝙲𝚁𝙴𝙰𝙳𝙾𝚁
-│◦➛📚ᩭ✎http://wa.me/5212411719888 
-│◦➛📔ᩭ✎𝚃𝚞𝚝𝚘𝚛𝚒𝚊𝚕: 𝚙𝚕𝚊𝚢
-│◦➛🍀ᩭ✎https://youtu.be/6FYKkeBCTdw
-│◦➛☃️ᩭ✎𝙶𝙸𝚃 𝙲𝙻𝙾𝙽𝙴
-│◦➛📚ᩭ✎https://github.com/Yovanihades1212/MIKU_BOT.git
-│◦➛🌱ᩭ✎𝙶𝚁𝚄𝙿𝙾 𝙳𝙴 𝙵𝙰𝙲𝙴𝙱𝙾𝙾𝙺 
-│◦➛🌴ᩭ✎https://www.facebook.com/groups/987464505464904
-│◦➛📔ᩭ✎voy a agradecer ☘️mucho su apoyo 📚
-│◦➛🌱𝐎𝐅𝐂 𝐘𝐎𝐕𝐀𝐍𝐈☘️ 
+│◦➛📚ᩭ✎http://wa.me/51955095498
+│◦➛📔𝙸𝙽𝚂𝚃𝙰𝙶𝚁𝙰𝙼
+│◦➛🍀https://www.instagram.com/ffxryu.18
+│◦➛@ffxryu.18
 ╰────────────┈⊷`
 let buttonMessage= {
 'document': { url: `https://youtu.be/4eA5nDxPjOA` },
 'mimetype': `application/${document}`,
-'fileName': `⫷᭄ʜᴀᴅᴇs-ʙᴏᴛ-ᴍᴅ﹏✍`,
+'fileName': `@ffxryu.18`,
 'fileLength': 99999999999999,
 'pageCount': 200,
 'contextInfo': {
 'forwardingScore': 200,
 'isForwarded': true,
 'externalAdReply': {
-'mediaUrl': 'https://github.com/Yovanihades1212/HADES-BOT-MDV2.git',
+'mediaUrl': 'https://github.com/jairgonzales3/RyuBotv2',
 'mediaType': 2,
 'previewType': 'pdf',
 'title': 'ᴇʟ ᴍᴇᴊᴏʀ ʙᴏᴛ ᴅᴇ ᴡʜᴀᴛsᴀᴘᴘ⁩',
 'body': wm,
 'thumbnail': imagen1,
-'sourceUrl': 'https://youtu.be/6FYKkeBCTdw' }},
+'sourceUrl': 'https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley' }},
 'caption': texto1,
 'footer': wm,
 'buttons':[
