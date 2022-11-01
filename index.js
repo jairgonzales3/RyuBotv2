@@ -17,15 +17,14 @@ say('HADES-BOT-MD\nOFC-YOVANI\n WHATSAPP-BOT', {
 font: 'chrome',
 align: 'center',
 gradient: ['red', 'magenta']})
-say(`EL MEJOR BOT DE WHATSAPP 2022 LA MEJOR CALIDAD Y SERVICIO DE WHATSAPP HADES_BOT
+say(`EL MEJOR BOT DE WHATSAPP 2022 LA MEJOR CALIDAD Y SERVICIO DE WHATSAPP @ffxryu.18
 |< ================================================== >|
 [•]-SERVIDOR : PRIVADO
 [•]-BOT VERSION : 10.8.9
 [•]-ESTADO : ACTIVO
-[•]-Owner : YOVANI
-[•]-GRACIAS POR USAR LE BOT DE HADES 
-[•]-SUBSCRIBETE LA CANAL YOUTUBE 
-[•]-CERRADO EL BOT YOVANI
+[•]-Owner : @ffxryu.18
+[•]-GRACIAS POR USAR LE BOT DE @ffxryu.18 
+[•]-CERRADO EL BOT @ffxryu.18
 |< ================================================== >|`, {
 font: 'console',
 align: 'center',
