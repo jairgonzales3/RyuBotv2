@@ -8,4 +8,3 @@ Bot terminado no recibirá más actualizaciones ✨
 [![𝐒𝐭𝐢𝐜𝐤𝐞𝐫𝐬 𝐆𝐫𝐚𝐭𝐢𝐬 𝟐](https://img.shields.io/badge/GRUPO_OFICIAL_2-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/LuHSCjQuCe8G5ucRCQxkJr)
 
 `@ffxryu.18"` 
-```
