@@ -1,5 +1,5 @@
 let handler  = async (m, { conn, usedPrefix }) => {
-conn.sendHydrated(m.chat, `*╭─────°.♡.°‧─────\n├“${pickRandom(global.bucin)}”\n├${vs}\n└────ׂ─ׂ─ׂ─ׂ──`, wm, null, md, '⫷᭄ʜᴀᴅᴇs-ʙᴏᴛ-ᴍᴅ﹏✍', null, null, [
+conn.sendHydrated(m.chat, `*╭─────°.♡.°‧─────\n├“${pickRandom(global.bucin)}”\n├${vs}\n└────ׂ─ׂ─ׂ─ׂ──`, wm, null, md, '@ffxryu.18', null, null, [
 ['𝐎𝐓𝐑𝐀 𝐕𝐄𝐙🧐', `${usedPrefix}reto`],
 ], m,)}
 
