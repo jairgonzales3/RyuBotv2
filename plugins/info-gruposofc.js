@@ -16,7 +16,7 @@ let more = String.fromCharCode(8206)
 let readMore = more.repeat(850)   
 let taguser = '@' + m.sender.split("@s.whatsapp.net")[0]
 let str = `
-┌「⫷᭄ʜᴀᴅᴇs-ʙᴏᴛ-ᴍᴅ﹏✍」
+┌「@ffxryu.18」
 ├❏ ๖ۣۜۜ͜͡𝐇𝐨𝐥𝐚ঔৣֳ᷌᷈͜͡ ${taguser}💖✨
 ├❏ 📅 𝙵𝙴𝙲𝙷𝙰: ${week}, ${date}
 ├❏ 🔋𝚃𝙸𝙴𝙼𝙿𝙾 𝙰𝙲𝚃𝙸𝚅𝙾: ${uptime}
@@ -26,17 +26,11 @@ let str = `
 │◦➛ ๖ۣۜۜ͜͡𝐇𝐨𝐥𝐚ঔৣֳ᷌᷈͜͡ 💖✨ HOLA TE ENVIAMOS 
 │◦➛☃️️ᩭ✎UNIRTE AL LOS💖 GRUPOS 
 │◦➛🌹️ᩭ✎OFICIALES DEL BOT DE👩‍🏫✨
-│◦➛🍃️ᩭ✎𝐇𝐀𝐃𝐄𝐒 _𝐁𝐎𝐓 y miku bot 
-│◦➛📚️ᩭ✎ SOMOS UNA FAMILIA DE BOTS 
-│◦➛🌆ᩭ✎𝙷𝙰𝙳𝙴𝚂-𝙱𝙾𝚃 𝚈 𝙼𝙸𝙺𝚄-𝙱𝙾𝚃1 
-│◦➛🍀ᩭ✎https://chat.whatsapp.com/CG5ZPcJ22fL7QjNRzjguD0
-│◦➛☘️ᩭ✎𝙷𝙰𝙳𝙴𝚂-𝙱𝙾𝚃 𝚈 𝙼𝙸𝙺𝚄-𝙱𝙾𝚃2 
-│◦➛✨ᩭ✎https://chat.whatsapp.com/DDm7HC6e5MF9qcdLqB22RQ
-│◦➛📚ᩭ✎𝙷𝙰𝙳𝙴𝚂-𝙱𝙾𝚃 𝚈 𝙼𝙸𝙺𝚄-𝙱𝙾𝚃3 
-│◦➛❤️ᩭ✎https://chat.whatsapp.com/KnpPbr8BN4VDLtwJFMNTtw
-│◦➛🌱ᩭ✎𝙷𝙰𝙳𝙴𝚂-𝙱𝙾𝚃 𝚈 𝙼𝙸𝙺𝚄-𝙱𝙾𝚃4 
-│◦➛📔ᩭ✎https://chat.whatsapp.com/BtzGZregRxzFswm0FgunHL
-│◦➛🌱𝐎𝐅𝐂 𝐘𝐎𝐕𝐀𝐍𝐈☘️ 
+│◦➛🌆𝐒𝐭𝐢𝐜𝐤𝐞𝐫𝐬 𝐆𝐫𝐚𝐭𝐢𝐬 𝟏
+│◦➛🍀ᩭ✎https://chat.whatsapp.com/BOAp22xLodrAvxbLG0AD4z
+│◦➛☘️𝐒𝐭𝐢𝐜𝐤𝐞𝐫𝐬 𝐆𝐫𝐚𝐭𝐢𝐬 𝟐
+│◦➛✨ᩭ✎https://chat.whatsapp.com/LuHSCjQuCe8G5ucRCQxkJr
+│◦➛@ffxryu.18
 ╰────────────┈⊷
 `.trim()
 let buttons = [
@@ -55,10 +49,10 @@ externalAdReply: {
 showAdAttribution: true,
 mediaType: 'VIDEO',
 mediaUrl: null,
-title: '🍀⫷᭄ʜᴀᴅᴇs-ʙᴏᴛ-ᴍᴅ﹏✍✨',
+title: '@ffxryu.18',
 body: null,
 thumbnail: img,
-sourceUrl: `https://youtu.be/HoxZuQokeMM`
+sourceUrl: `https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley`
 }}}
 conn.sendMessage(m.chat, buttonMessage, { quoted: m })
 await conn.sendFile(m.chat, vn, 'naa.mp3', null, m, true, { type: 'audioMessage', ptt: true})
