@@ -3,16 +3,14 @@ var doc = ['pdf','zip','vnd.openxmlformats-officedocument.presentationml.present
 var document = doc[Math.floor(Math.random() * doc.length)]    
 let text = `
 ╭─────°.♡.°‧─────
-│⫷᭄ʜᴀᴅᴇs-ʙᴏᴛ-ᴍᴅ﹏✍
-│Wa.me/5212412377467 (BOT)
-│Wa.me/5212411261883 (BOT) 
-│Wa.me/5212411719888 (CREADOR)
-│Wa.me/5212411347465 (CREADOR)
+│@ffxryu.18
+│Wa.me/51955095498 (BOT)
+│Wa.me/51933348947 (CREADOR) 
 ╰─────°.♡.°‧─────`.trim()   
 let buttonMessage= {
 'document': { url: `https://github.com/Yovanihades1212/HADES-BOT-MDV2` },
 'mimetype': `application/${document}`,
-'fileName': `⫷᭄ʜᴀᴅᴇs-ʙᴏᴛ-ᴍᴅ﹏✍`,
+'fileName': `@ffxryu.18`,
 'fileLength': 99999999999999,
 'pageCount': 200,
 'contextInfo': {
